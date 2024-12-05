@@ -5,8 +5,8 @@ pass='MauticDBPa$$123'
 db_name='MauticAutomation'
 db_user='MauticUser'
 web_root='/var/www/mautic'
-domain='example.com'
-email='changethis@example.com'
+domain='es.passiveincm.online'
+email='ramabonenyathi85@gmail.com'
 timezone='America/New_York'
 
 ### Set default parameters
