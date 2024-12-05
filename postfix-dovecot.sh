@@ -7,15 +7,15 @@
 #################################################################################
 
 # Edit here ..
-mysqlPass='PasswordRoot'     # mysql root password here
+mysqlPass='Syemasacre@2019'     # mysql root password here
 
-database="email_server"      # name database email
-dbUser="user_db"             # user database email
-dbUserPass="pass_user_db"    # password user database email
+database="postfix"      # name database email
+dbUser="Ramsey"             # user database email
+dbUserPass="Syemasacre@2019"    # password user database email
 
-Domain="example.com"         # your Domain
-Email="saleh@example.com"    # Email with your domain
-EmailPass="password4email"   # password email
+Domain="passiveincm.online"         # your Domain
+Email="ramsey@passiveincm.online"    # Email with your domain
+EmailPass="Syemasacre@2019"   # password email
 #
 # update your system's package list
 #
